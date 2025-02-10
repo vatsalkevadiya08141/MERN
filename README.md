@@ -1,1 +1,3 @@
 # MERN
+
+- learning mern stack
